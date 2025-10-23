@@ -1,9 +1,7 @@
-<div align="center">
-
 # 🗣️ Meta LLM Chatbot: GPU Optimized
 
 <p>
-    An efficient, conversational AI agent built around a <strong>Meta Large Language Model (LLM)</strong>, featuring a simple, interactive interface powered by <strong>Gradio</strong>.
+ An efficient, conversational AI agent built around a <strong>Meta Large Language Model (LLM)</strong>, featuring a simple, interactive interface powered by <strong>Gradio</strong>.
 </p>
 <img src="Screenshot 2025-10-23 154226.png" alt="Screenshot of the Gradio Chatbot Interface with input box and chat history." widt
 </div>
@@ -80,4 +78,4 @@ To achieve fast response times, two key Python changes were made:
 
 ## ✍️ Author
 
-* **[Your Name / GitHub Username]** - [Your LinkedIn or Portfolio Link]
+* **[Supriya Mansha / Developwithsupriya]**
